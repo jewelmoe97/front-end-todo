@@ -1,6 +1,7 @@
 This is the project for the PHASE3 from Flat Iron Software Engineering Flex Program.
 
 ##Backend Repository
+
 https://github.com/jewelmoe97/backend-todo
 
 
@@ -20,7 +21,8 @@ And it also have 5 routes; home,todo-edit,shopping,shoppping-edit and error 404.
 
 *Can create,update and delete todo & shopping lists.
 
-Built With
+
+##Built With
 
 *HTML
 
@@ -34,9 +36,11 @@ Built With
 
 *Bootstrap
 
+
 ##Requirments
 
 *node 16.16.0
+
 
 ##Installation
 
@@ -46,11 +50,13 @@ Built With
 
 *npm run build
 
+
 ##Usage
 
 *npm start to run the server
 
 *open in localhost:3000 in browser
+
 
 MIT License
 
